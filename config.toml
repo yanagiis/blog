@@ -1,4 +1,4 @@
 baseURL = 'https://yanagiis.github.io/'
 languageCode = 'en-us'
-title = 'Jimmy's daily learning'
-theme: "PaperMod"
+title = 'Jimmys daily learning'
+theme = 'PaperMod'
