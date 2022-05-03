@@ -171,6 +171,8 @@ docker-compse up -d drone
 ## Final
 
 架設的部份就到這裡. Mirror 的部份等之後有空再來發一篇.
+這邊有參考的 [repo](https://github.com/yanagiis/gitea-drone-ci-example)
+
 
 Reference:
 1. [Gitea](https://gitea.io/zh-tw/)
