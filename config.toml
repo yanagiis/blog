@@ -1,11 +1,11 @@
 baseURL = 'https://yanagiis.github.io/'
 languageCode = 'en-us'
-title = "JimmyOu's daily note"
+title = "JimmyOu's daily notes"
 theme = 'PaperMod'
 
 [author]
   name = "JimmyOu"
-  copyright = "2021 JimmyOu"
+  copyright = "2022 JimmyOu"
 
 [menu]
   main = [
@@ -14,5 +14,5 @@ theme = 'PaperMod'
   ]
 
 [params]
-  description = "JimmyOu's daily note"
+  description = "Note everything here"
   subtitleLength = 25
