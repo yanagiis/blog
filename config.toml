@@ -1,6 +1,6 @@
 baseURL = 'https://yanagiis.github.io/'
 languageCode = 'en-us'
-title = "JimmyOu's daily notes"
+title = "JimmyOu's notes"
 theme = 'PaperMod'
 
 [author]
